@@ -5,8 +5,6 @@
 
 package org.example;
 
-//import java.util.Arrays;
-
 import java.lang.String;
 
 public class task2 {
